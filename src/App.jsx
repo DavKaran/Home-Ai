@@ -27,7 +27,7 @@ import {
 } from 'lucide-react';
 
 // --- Configuration ---
-const apiKey = "AIzaSyDy4X8oRIo7TX5JHSZzNDdzkinkpZGLBm4"; 
+const apiKey = "AIzaSyD-1Pzya5dKNvJ8OJubu2efTBCl7GIAj48"; 
 
 // --- Simulated Smart Home API (e.g., SmartThings, Home Assistant) ---
 const fetchSmartDeviceStatus = async (deviceType, symptoms = []) => {
