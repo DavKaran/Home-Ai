@@ -124,7 +124,7 @@ SMART PLUG TROUBLESHOOTING:
 `;
 
 // ─── Gemini API Key (same as main app) ───────────────────────────────────────
-const apiKey = "AIzaSyDy4X8oRIo7TX5JHSZzNDdzkinkpZGLBm4";
+const apiKey = "AIzaSyD-1Pzya5dKNvJ8OJubu2efTBCl7GIAj48";
 
 // ─── Chat API Call ───────────────────────────────────────────────────────────
 const sendChatMessage = async (conversationHistory) => {
